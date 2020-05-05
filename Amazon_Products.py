@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-#Final Copy
+#testcopy
 #Project to web-scrape the first 5 pages of Laptops in Amazon India website for the Laptop Names, Price and Ratings
 #and insert it into a csv file. 
 
